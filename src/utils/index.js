@@ -1,0 +1,16 @@
+import shit from "/assets/images/shit.jpg";
+import apple from "/assets/images/logo.svg";
+import search from "/assets/images/search.svg";
+import watch from "/assets/images/watch.svg";
+import right from "/assets/images/right.svg";
+import replay from "/assets/images/replay.svg";
+import play from "/assets/images/play.svg";
+import pause from "/assets/images/pause.svg";
+export const shitImg = shit;
+export const appleImg = apple;
+export const searchImg = search;
+export const watchImg = watch;
+export const rightImg = right;
+export const replayImg = replay;
+export const playImg = play;
+export const pauseImg = pause;
